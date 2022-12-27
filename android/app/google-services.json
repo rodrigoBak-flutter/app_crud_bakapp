@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031671905957",
+    "project_id": "appcrudbakapps",
+    "storage_bucket": "appcrudbakapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031671905957:android:81f2529e21170912dcd74c",
+        "android_client_info": {
+          "package_name": "com.example.app_crud_bakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031671905957-n6ucr73ev58i43v0ijvghc0qv19lvurd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_crud_bakapp",
+            "certificate_hash": "452032e5b12f9ff27041c0078da0c1278af1a9ac"
+          }
+        },
+        {
+          "client_id": "1031671905957-5dlpm1rrf0tar3piaul0auhk96s26ohc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vkiACKJ_0wHcsU7f2_zlaq3cdGqYDQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031671905957-5dlpm1rrf0tar3piaul0auhk96s26ohc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
