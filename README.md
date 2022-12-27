@@ -1,16 +1,9 @@
-# app_crud_bakapp
+LOGIN - REGISTRO - AUTENTICACION - CRUD, realizado con FIREBASE
 
-A new Flutter project.
+[![Screenshot-1672139723.png](https://i.postimg.cc/N02Rr8ym/Screenshot-1672139723.png)](https://postimg.cc/VS1JxCWk)
 
-## Getting Started
+[![Screenshot-1672139733.png](https://i.postimg.cc/bJQbmz9v/Screenshot-1672139733.png)](https://postimg.cc/ZB5CRzgk)
 
-This project is a starting point for a Flutter application.
+[![Screenshot-1672139794.png](https://i.postimg.cc/qq4KY91x/Screenshot-1672139794.png)](https://postimg.cc/472nHFkY)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-1672139798.png](https://i.postimg.cc/XJMdKZFh/Screenshot-1672139798.png)](https://postimg.cc/Ty9Kf3tq)
